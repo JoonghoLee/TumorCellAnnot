@@ -1,5 +1,6 @@
 # TumorCellAnnot
-A Tumor Cell Annotation Pipeline for Single-Cell RNA-Seq Data Using HiCAT
+This post covers the process of Tumor Cell Annotation using HiCAT. (Installation of HiCAT, scanpy, and infercnvpy packages is required)
+The data used in the example is from the public dataset GSE154778, consisting of single-cell RNA-seq data from pancreatic cancer patients.
 
 ```
 import time, os, copy, datetime, math, random, warnings
